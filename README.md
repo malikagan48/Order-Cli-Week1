@@ -3,9 +3,9 @@
 ---
 **Registered User**
 ---
-https://raw.githubusercontent.com/malikagan48/Order-Cli-Week1/main/12.PNG
+https://raw.githubusercontent.com/malikagan48/Order-Cli-Week1/main/MustafaAliKaganKucukOdev1/Main/images/12.PNG
 ---
 **New Registered User**
 ---
-https://raw.githubusercontent.com/malikagan48/Order-Cli-Week1/main/13.PNG
+https://raw.githubusercontent.com/malikagan48/Order-Cli-Week1/main/MustafaAliKaganKucukOdev1/Main/images/13.PNG
 ---
