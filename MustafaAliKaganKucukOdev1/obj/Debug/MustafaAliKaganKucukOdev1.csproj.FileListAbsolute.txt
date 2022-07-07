@@ -1,0 +1,14 @@
+C:\Users\kağan küçük\source\repos\MustafaAliKaganKucukOdev1\MustafaAliKaganKucukOdev1\bin\Debug\MustafaAliKaganKucukOdev1.exe.config
+C:\Users\kağan küçük\source\repos\MustafaAliKaganKucukOdev1\MustafaAliKaganKucukOdev1\bin\Debug\MustafaAliKaganKucukOdev1.exe
+C:\Users\kağan küçük\source\repos\MustafaAliKaganKucukOdev1\MustafaAliKaganKucukOdev1\bin\Debug\MustafaAliKaganKucukOdev1.pdb
+C:\Users\kağan küçük\source\repos\MustafaAliKaganKucukOdev1\MustafaAliKaganKucukOdev1\obj\Debug\MustafaAliKaganKucukOdev1.csprojAssemblyReference.cache
+C:\Users\kağan küçük\source\repos\MustafaAliKaganKucukOdev1\MustafaAliKaganKucukOdev1\obj\Debug\MustafaAliKaganKucukOdev1.csproj.CoreCompileInputs.cache
+C:\Users\kağan küçük\source\repos\MustafaAliKaganKucukOdev1\MustafaAliKaganKucukOdev1\obj\Debug\MustafaAliKaganKucukOdev1.exe
+C:\Users\kağan küçük\source\repos\MustafaAliKaganKucukOdev1\MustafaAliKaganKucukOdev1\obj\Debug\MustafaAliKaganKucukOdev1.pdb
+C:\Users\Kagan\Documents\GitHub\ODEV1MustafaAliKaganKucuk-main\MustafaAliKaganKucukOdev1\MustafaAliKaganKucukOdev1\bin\Debug\MustafaAliKaganKucukOdev1.exe.config
+C:\Users\Kagan\Documents\GitHub\ODEV1MustafaAliKaganKucuk-main\MustafaAliKaganKucukOdev1\MustafaAliKaganKucukOdev1\bin\Debug\MustafaAliKaganKucukOdev1.exe
+C:\Users\Kagan\Documents\GitHub\ODEV1MustafaAliKaganKucuk-main\MustafaAliKaganKucukOdev1\MustafaAliKaganKucukOdev1\bin\Debug\MustafaAliKaganKucukOdev1.pdb
+C:\Users\Kagan\Documents\GitHub\ODEV1MustafaAliKaganKucuk-main\MustafaAliKaganKucukOdev1\MustafaAliKaganKucukOdev1\obj\Debug\MustafaAliKaganKucukOdev1.csprojAssemblyReference.cache
+C:\Users\Kagan\Documents\GitHub\ODEV1MustafaAliKaganKucuk-main\MustafaAliKaganKucukOdev1\MustafaAliKaganKucukOdev1\obj\Debug\MustafaAliKaganKucukOdev1.csproj.CoreCompileInputs.cache
+C:\Users\Kagan\Documents\GitHub\ODEV1MustafaAliKaganKucuk-main\MustafaAliKaganKucukOdev1\MustafaAliKaganKucukOdev1\obj\Debug\MustafaAliKaganKucukOdev1.exe
+C:\Users\Kagan\Documents\GitHub\ODEV1MustafaAliKaganKucuk-main\MustafaAliKaganKucukOdev1\MustafaAliKaganKucukOdev1\obj\Debug\MustafaAliKaganKucukOdev1.pdb
